@@ -118,6 +118,6 @@ This project contains a forked practice range that is being developed for projec
 
 ***External Resources***
 
-3D dummy character from Mixamo.com *A private model for Project M is on the original repository but will not be made available in any public repo*
+3D character from Mixamo.com *A private model for Project M is on the original repository but will not be made available in any public repo*
 
 ***Notice:*** Distribution, copying, or cloning of this repository or code is strictly prohibited as it is not allowed.
