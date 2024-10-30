@@ -1,7 +1,7 @@
 # INFR 1350U – Game Engine Design & Implementation
 Intro to Comptuer Graphics Project M forked version
 
-*Group and Contributions*
+**Group and Contributions**
 
 Alejandro *(Alex)* Mejia Moysen - 100862130
 
