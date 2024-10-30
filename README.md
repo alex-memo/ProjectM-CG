@@ -9,10 +9,10 @@ Ethan Gibson - 100862130
 
 Venus Poon - 100861849
 
-![Slides](https://docs.google.com/presentation/d/1-D9TVGyGRQ2FD2NtPOb62AEqQfwMT2my6LskOgcGNW8/edit?usp=sharing)
+![Video](https://drive.google.com/file/d/12hC4zSfltoqgINoiVY59vc4SyLsTpMUG/view?usp=drive_link)
 
 *if link broken*
-https://docs.google.com/presentation/d/1-D9TVGyGRQ2FD2NtPOb62AEqQfwMT2my6LskOgcGNW8/edit?usp=sharing
+https://drive.google.com/file/d/12hC4zSfltoqgINoiVY59vc4SyLsTpMUG/view?usp=drive_link
 
 ***Alex:***
 
