@@ -6,10 +6,11 @@
  Alejandro *(Alex)* Mejia Moysen - 100862130
 
  Ethan Gibson - 100862130
- Venus
+
+ Venus Poon - 100861849
 
 
- ***Alex:***
+***Alex:***
 
 Fireball Shader
 Shield Shader
