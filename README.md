@@ -17,23 +17,35 @@ https://docs.google.com/presentation/d/1-D9TVGyGRQ2FD2NtPOb62AEqQfwMT2my6LskOgcG
 ***Alex:***
 
 Fireball Shader
+
 Shield Shader
+
 Outline Shader
+
 HealthBar Shader
+
 Zone LUT
+
 
 ***Ethan:***
 
 Unlit
+
 Ambient
+
 Specular
+
 Ambient + Specular
+
 Ambient + Specular + Toon
+
 Ambient + Specular + Breathing
+
 
 ***Venus:***
 
 Reports
+
 
 
 **Acknowledgements**
